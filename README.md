@@ -39,10 +39,10 @@ Based on user input, the dynamic generation of the HTML content is powered by [j
 ## Setup
 
 
-SSH: git@github.com:brycehadl/Weather-Dashboard.git
+SSH: git@github.com:brycehadl/weather-dashboard.git
 
 
-HTTPS: https://github.com/brycehadl/Weather-Dashboard.git
+HTTPS: https://github.com/brycehadl/weather-dashboard.git
 
 
 ## License
