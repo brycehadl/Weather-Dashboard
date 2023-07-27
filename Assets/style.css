@@ -27,7 +27,7 @@
   
   .hero {
     background: #c1d014;
-    background: -webkit-linear-gradient(
+    background: linear-gradient(
       to right,
       #e6042e,
       #fa8231
